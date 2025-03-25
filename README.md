@@ -41,7 +41,7 @@ python main.py -i receipt.jpg --interactive
 
 **Before** (angled photo) | **After** (scanned result)
 ---|---
-![Input]("Pmyfile.jpg") | ![Output]("myfile_scanned.jpg")
+![Input]("https://imgur.com/a/42G5tZC") | ![Output]("https://imgur.com/a/fFm8jZQ")
 
 ## 🤝 Contributing
 
