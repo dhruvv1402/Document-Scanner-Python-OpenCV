@@ -41,7 +41,7 @@ python main.py -i receipt.jpg --interactive
 
 **Before** (angled photo) | **After** (scanned result)
 ---|---
-![Input]("https://imgur.com/a/42G5tZC") | ![Output]("https://imgur.com/a/fFm8jZQ")
+![Input]("https://github.com/dhruvv1402/Document-Scanner-Python-OpenCV/blob/main/myfile.jpg") | ![Output]("https://github.com/dhruvv1402/Document-Scanner-Python-OpenCV/blob/main/myfile_scanned.jpg")
 
 ## 🤝 Contributing
 
